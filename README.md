@@ -8,7 +8,7 @@ A list of repositories managed by different people with tech stack, role, and ho
 
 ## PWeb — Voltworks Portfolio Website
 
-**Role:** Manager
+**Manager:** Toufiq Hussain
 **Duration:** 1st April 2026 – Present
 **Contributors:** Kaif
 
