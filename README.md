@@ -1,6 +1,8 @@
+# This the guideline for the present and future reponsiee of STD (Service Tech. Department) of the Voltworks Technologies pvt ltd.
+## all the details of specific techs build within and for the company is mentioned in this repo. it does not include the codes of RnD Department.
 # Projects
 
-A list of repositories I manage, with tech stack, role, and hosting details.
+A list of repositories managed by different people with tech stack, role, and hosting details. In case of employee change this ownership must be handed over to respective reponsible person.
 
 ---
 
